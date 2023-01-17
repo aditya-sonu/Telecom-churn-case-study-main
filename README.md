@@ -1,4 +1,4 @@
-   # Telecom Churn Case Study     -  Aditya, Dona and Mayur.
+   # Telecom Churn Case Study     -  Aditya Kumar Roy & Dona Maria Joseph.
 
 ## Problem Statement
 
